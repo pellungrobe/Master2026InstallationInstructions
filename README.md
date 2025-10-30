@@ -66,6 +66,7 @@ This guide does NOT contain information regarding software for Windows, namely S
 - **Preliminary Python Study** (this activity is OPTIONAL) For those interested in starting to learn Python independently, we recommend the online and open-source book available at the link: http://www.spronck.net/pythonbook/ SoBigData Academy Course
 - **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
 - **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
+- **Jekyll** During the LBDAI – Laboratory of Big Data and Artificial Intelligence for Society course, we will use Jekyll, an open-source Static Site Generator (SSG) that allows you to create static, fast, and easily manageable websites without the need for databases or complex backends.
 
 
 
