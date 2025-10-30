@@ -1,29 +1,4 @@
-### In this page you will find instructions and files to install a minimal environment for the 2026 edition of the Master in Big Data and Social Analytics. It should not take you more than an hour to complete everything. Please reade the instructions in full before starting the procedure. Instructions are found both in english and italian. To download all the files, including this readme, click on the "<> Code" green button, then on the "Download ZIP" option.
-### In questa pagina troverete istruzioni e file per installare un ambiente minimale per l'edizione 2026 del Master in Big Data e Social Analytics. Non dovrebbe richiedervi più di un'ora per completare tutto. Vi preghiamo di leggere le istruzioni per intero prima di iniziare la procedura. Le istruzioni sono sia in italiano che in inglese. Per scaricare tutti i file, incluso questo readme, cliccate sul bottone verde "<> Code", e poi su "Download ZIP".
-
-
-
-# Master 2026 Installation Instructions (English)
-
-Dear Students,
-
-To best prepare for the start of classes and avoid technical issues, we have prepared the following guide (dense with instructions) to provide you with details on how to install the necessary software before the courses begin.
-
-This guide does NOT contain information regarding software for Windows, namely Sql Management Studio, which you will receive later.
-
-## ATTENTION: READ ALL INSTRUCTIONS CAREFULLY BEFORE PROCEEDING.
-
-- **Installing ANACONDA** Anaconda is an open-source platform containing various packages and software that we will use during the master’s program. You can find the software at the following link: https://www.anaconda.com/products/individual Install the individual version of Anaconda. Be sure to correctly select your operating system (it should be automatically recognized, but in any case, the above link contains packages for all operating systems). **Please, install a new, fresh version of Anaconda. The new lib-mamba solver comes by default with new version/installations. If you already have an older Anaconda installation, please update it or re-install from 0** More info here: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
-- **Installing PYCHARM** Pycharm is a development environment, akin to Word for writing programs. You can find the software at the following link: https://www.jetbrains.com/pycharm/download/ Install the Community version (free and open source). Again, make sure to select the correct installer for your operating system.
-- **Master Environment Installation** After installing Anaconda, you can launch the Anaconda-Navigator, which is a graphical interface for opening various software. Following the attached video tutorial and after downloading the attached .yml file, use the .yml file to install the necessary Python packages. Follow the video tutorial for detailed instructions. Do this ONLY AFTER correctly installing Anaconda. The command to execute, as shown in the video, is: <code>conda env create -v -f env_master_2026.yml</code>. The installation process may take varying amounts of time depending on your computer. Please be patient. During installation, DO NOT turn off your PC or disconnect from the network or power source.
-- **Testing the Master Environment** After the aforementioned installation, to test the master environment, you can open a terminal (Terminal on Mac or Windows Terminal on Windows) and navigate to the folder where you saved the test_master.py file using the command: cd [folder_name]. Watch the video for an example of this command. Once in the folder containing the file, type: <code>conda activate env_master_2026</code>, press enter, then type <code>python test_master.py</code>. If the installation was successful, you will see "Hello World" appear on the terminal (this may take a few minutes).
-- **Preliminary Python Study** (this activity is OPTIONAL) For those interested in starting to learn Python independently, we recommend the online and open-source book available at the link: http://www.spronck.net/pythonbook/ SoBigData Academy Course
-- **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
-- **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
-
-
-
-# Istruzioni per l'Installazione Master 2026 (Italian)
+### ### In questa pagina troverete istruzioni e file per installare un ambiente minimale per l'edizione 2026 del Master in Big Data e Social Analytics. Non dovrebbe richiedervi più di un'ora per completare tutto. Vi preghiamo di leggere le istruzioni per intero prima di iniziare la procedura. Le istruzioni sono sia in italiano che in inglese. Per scaricare tutti i file, incluso questo readme, cliccate sul bottone verde "<> Code", e poi su "Download ZIP".
 
 Gentili studentesse e gentili studenti,
  
@@ -62,6 +37,33 @@ SoBigData accademy course
 DBeaver è un software per la gestione di basi di dati. Per scaricarlo cliccare sul seguente link: https://dbeaver.io/download/
 E selezionare la versione adatta al proprio Sistema Operativo. Proseguite dunque con le normali procedure di installazione di un qualsiasi software.
 Ci vediamo agli installation days, per verificare la corretta installazione ed eventualmente aiutarvi se avete problemi.
+
+
+# ------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Master 2026 Installation Instructions (English)
+# In this page you will find instructions and files to install a minimal environment for the 2026 edition of the Master in Big Data and Social Analytics. It should not take you more than an hour to complete everything. Please reade the instructions in full before starting the procedure. Instructions are found both in english and italian. To download all the files, including this readme, click on the "<> Code" green button, then on the "Download ZIP" option.
+
+Dear Students,
+
+To best prepare for the start of classes and avoid technical issues, we have prepared the following guide (dense with instructions) to provide you with details on how to install the necessary software before the courses begin.
+
+This guide does NOT contain information regarding software for Windows, namely Sql Management Studio, which you will receive later.
+
+## ATTENTION: READ ALL INSTRUCTIONS CAREFULLY BEFORE PROCEEDING.
+
+- **Installing ANACONDA** Anaconda is an open-source platform containing various packages and software that we will use during the master’s program. You can find the software at the following link: https://www.anaconda.com/products/individual Install the individual version of Anaconda. Be sure to correctly select your operating system (it should be automatically recognized, but in any case, the above link contains packages for all operating systems). **Please, install a new, fresh version of Anaconda. The new lib-mamba solver comes by default with new version/installations. If you already have an older Anaconda installation, please update it or re-install from 0** More info here: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
+- **Installing PYCHARM** Pycharm is a development environment, akin to Word for writing programs. You can find the software at the following link: https://www.jetbrains.com/pycharm/download/ Install the Community version (free and open source). Again, make sure to select the correct installer for your operating system.
+- **Master Environment Installation** After installing Anaconda, you can launch the Anaconda-Navigator, which is a graphical interface for opening various software. Following the attached video tutorial and after downloading the attached .yml file, use the .yml file to install the necessary Python packages. Follow the video tutorial for detailed instructions. Do this ONLY AFTER correctly installing Anaconda. The command to execute, as shown in the video, is: <code>conda env create -v -f env_master_2026.yml</code>. The installation process may take varying amounts of time depending on your computer. Please be patient. During installation, DO NOT turn off your PC or disconnect from the network or power source.
+- **Testing the Master Environment** After the aforementioned installation, to test the master environment, you can open a terminal (Terminal on Mac or Windows Terminal on Windows) and navigate to the folder where you saved the test_master.py file using the command: cd [folder_name]. Watch the video for an example of this command. Once in the folder containing the file, type: <code>conda activate env_master_2026</code>, press enter, then type <code>python test_master.py</code>. If the installation was successful, you will see "Hello World" appear on the terminal (this may take a few minutes).
+- **Preliminary Python Study** (this activity is OPTIONAL) For those interested in starting to learn Python independently, we recommend the online and open-source book available at the link: http://www.spronck.net/pythonbook/ SoBigData Academy Course
+- **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
+- **DBeaver** DBeaver is software for database management. To download it, click the following link: https://dbeaver.io/download/ Select the version suitable for your operating system and proceed with the usual software installation procedures. We will see you at the installation days to verify the correct installation and assist you if you encounter any issues.
+
+
+
+
 
 
 
