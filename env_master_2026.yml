@@ -1,0 +1,49 @@
+name: env_master_2025
+
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pyspark
+    - pydotplus
+    - tweepy
+    - lightgbm
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - nb_conda
+    - unidecode
+    - simplejson
+    - nltk
+    - scrapy
+    - wordcloud
+    - elasticsearch
+    - requests
+    - jupyter
+    - lxml
+    - stumpy
+    - geopandas
+    - altair
+    - seaborn
+    - elasticsearch
+    - py4j
+    - unidecode
+    - scrapy
+    - lxml
+    - scikit-mobility
+    - pillow
+    - selenium
+    - pip:
+        - rtree
+        - pyfim
+        - pyclustering
