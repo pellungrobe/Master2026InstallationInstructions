@@ -46,8 +46,6 @@ import lxml
 
 import scrapy
 
-import skmob
-
 import PIL
 
 import fim
