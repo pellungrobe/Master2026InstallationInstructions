@@ -1,4 +1,4 @@
-### ### In questa pagina troverete istruzioni e file per installare un ambiente minimale per l'edizione 2026 del Master in Big Data e Social Analytics. Non dovrebbe richiedervi più di un'ora per completare tutto. Vi preghiamo di leggere le istruzioni per intero prima di iniziare la procedura. Le istruzioni sono sia in italiano che in inglese. Per scaricare tutti i file, incluso questo readme, cliccate sul bottone verde "<> Code", e poi su "Download ZIP".
+### In questa pagina troverete istruzioni e file per installare un ambiente minimale per l'edizione 2026 del Master in Big Data e Social Analytics. Non dovrebbe richiedervi più di un'ora per completare tutto. Vi preghiamo di leggere le istruzioni per intero prima di iniziare la procedura. Le istruzioni sono sia in italiano che in inglese. Per scaricare tutti i file, incluso questo readme, cliccate sul bottone verde "<> Code", e poi su "Download ZIP".
 
 Gentili studentesse e gentili studenti,
  
