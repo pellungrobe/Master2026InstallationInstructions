@@ -1,3 +1,4 @@
+# Istruzioni installazione Master 2026
 ### In questa pagina troverete istruzioni e file per installare un ambiente minimale per l'edizione 2026 del Master in Big Data e Social Analytics. Non dovrebbe richiedervi più di un'ora per completare tutto. Vi preghiamo di leggere le istruzioni per intero prima di iniziare la procedura. Le istruzioni sono sia in italiano che in inglese. Per scaricare tutti i file, incluso questo readme, cliccate sul bottone verde "<> Code", e poi su "Download ZIP".
 
 Gentili studentesse e gentili studenti,
@@ -48,7 +49,7 @@ Per installare jekyll seguita la guida che potete trovare qui: https://danielefa
 
 
 # Master 2026 Installation Instructions (English)
-# In this page you will find instructions and files to install a minimal environment for the 2026 edition of the Master in Big Data and Social Analytics. It should not take you more than an hour to complete everything. Please reade the instructions in full before starting the procedure. Instructions are found both in english and italian. To download all the files, including this readme, click on the "<> Code" green button, then on the "Download ZIP" option.
+### In this page you will find instructions and files to install a minimal environment for the 2026 edition of the Master in Big Data and Social Analytics. It should not take you more than an hour to complete everything. Please reade the instructions in full before starting the procedure. Instructions are found both in english and italian. To download all the files, including this readme, click on the "<> Code" green button, then on the "Download ZIP" option.
 
 Dear Students,
 
