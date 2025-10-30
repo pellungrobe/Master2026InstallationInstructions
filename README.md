@@ -38,8 +38,13 @@ DBeaver è un software per la gestione di basi di dati. Per scaricarlo cliccare 
 E selezionare la versione adatta al proprio Sistema Operativo. Proseguite dunque con le normali procedure di installazione di un qualsiasi software.
 Ci vediamo agli installation days, per verificare la corretta installazione ed eventualmente aiutarvi se avete problemi.
 
+- **Jekyll**
+Nel corso LBDAI – Laboratory of Big Data and Artificial Intelligence for Society utilizzeremo Jekyll, uno Static Site Generator (SSG) open-source che consente di creare siti web statici, veloci e facilmente gestibili, senza la necessità di database o backend complessi.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------
+Jekyll è scritto in Ruby, ma non è necessario conoscere Ruby per utilizzarlo: serve solo che sia installato sul proprio computer.  
+Per installare jekyll seguita la guida che potete trovare qui: https://danielefadda.github.io/master-projects-template-2026/local-development-eng.html
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Master 2026 Installation Instructions (English)
