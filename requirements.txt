@@ -1,0 +1,40 @@
+# Dipendenze convertite da env_master_2026.yml
+# Il file YAML specifica Python 3.11 ma non blocca le versioni dei pacchetti.
+
+jupyter
+scikit-learn
+scipy
+pandas
+pandas-datareader
+matplotlib
+pyspark
+pydotplus
+tweepy
+lightgbm
+tqdm
+requests
+h5py
+pyyaml
+flask
+boto3
+unidecode
+simplejson
+nltk
+scrapy
+wordcloud
+elasticsearch
+lxml
+stumpy
+geopandas
+altair
+seaborn
+py4j
+scikit-mobility
+pillow
+selenium
+rtree
+pyfim
+pyclustering
+
+# nb_conda è specifico dell'integrazione Conda/Jupyter e non è incluso come
+# dipendenza pip/uv; in un ambiente uv normalmente non serve.
